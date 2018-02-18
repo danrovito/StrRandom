@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>Dan Rovito</Authors>
+    <Company />
+    <Description>Creates a random string based on a mix of numbers and letters.</Description>
+    <PackageLicenseUrl>https://github.com/danrovito/StrRandom/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/danrovito/StrRandom</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/danrovito/StrRandom</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>random, string, numbers, letters</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
