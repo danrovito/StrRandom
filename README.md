@@ -1,4 +1,7 @@
 # StrRandom
+
+![Nuget](https://img.shields.io/nuget/dt/StrRandom)
+
 C# libarary that creates a random string based on a mix of numbers and letters.
 
 ## Usage
